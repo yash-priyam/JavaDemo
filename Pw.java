@@ -3,4 +3,8 @@ class Hello{
 	{
 		//code
 	}
+	public void new2()
+	{
+		//code2
+	}
 }
